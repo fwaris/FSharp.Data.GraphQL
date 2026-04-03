@@ -1,7 +1,7 @@
 <Project>
 
   <PropertyGroup>
-    <DotNetVersion>net8.0</DotNetVersion>
+    <DotNetVersion>net10.0</DotNetVersion>
     <LangVersion>9.0</LangVersion>
     <FSharpCoreVersion>9.0.*</FSharpCoreVersion>
     <AccelerateBuildsInVisualStudio>true</AccelerateBuildsInVisualStudio>

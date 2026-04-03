@@ -4,6 +4,7 @@
     <TargetFramework>$(DotNetVersion)</TargetFramework>
     <AssemblyName>FSharp.Data.GraphQL.Samples.StarWarsApi</AssemblyName>
     <RootNamespace>FSharp.Data.GraphQL.Samples.StarWarsApi</RootNamespace>
+    <NoWarn>$(NoWarn);FS0044</NoWarn>
   </PropertyGroup>
 
   <ItemGroup Label="PackageReferences">
